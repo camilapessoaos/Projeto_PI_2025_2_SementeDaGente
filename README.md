@@ -43,6 +43,6 @@ O Modelo Lógico traduz o MER para a estrutura de tabelas, com a definição de 
 
 ## IV. Grupo:
 
-Arthur Henrique Cirilo Bem
-Camila Pessoa de Oliveira Silva
-Gustavo Koichi Uraga Morimoto
+Arthur Henrique Cirilo Bem | 
+Camila Pessoa de Oliveira Silva | 
+Gustavo Koichi Uraga Morimoto | 
