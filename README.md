@@ -20,12 +20,6 @@ O sistema "Semente da Gente" é uma aplicação de **controle de inventário e r
 O MER define as entidades e os relacionamentos no mundo do negócio.
 
 
-## III. Grupo:
-
-Arthur Henrique Cirilo Bem
-Camila Pessoa de Oliveira Silva
-Gustavo Koichi Uraga Morimoto
-
 ### Entidades e Relacionamentos Chave
 
 | Entidade | Chave Primária | Relacionamentos Chave |
@@ -45,3 +39,10 @@ Gustavo Koichi Uraga Morimoto
 ## III. Modelo Lógico (Diagrama Relacional - MR) 🗄️
 
 O Modelo Lógico traduz o MER para a estrutura de tabelas, com a definição de Ch
+
+
+## IV. Grupo:
+
+Arthur Henrique Cirilo Bem
+Camila Pessoa de Oliveira Silva
+Gustavo Koichi Uraga Morimoto
